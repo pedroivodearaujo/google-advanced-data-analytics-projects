@@ -27,7 +27,8 @@ During the data inspection phase, several critical points were identified:
 ## Next Steps
 With the data cleaned and initial anomalies identified, the project will move into the **Exploratory Data Analysis (EDA)** phase, focusing on data visualization and correlation analysis to identify the key drivers of user churn.
 
-######################################################
+###############################################################################################################################################################################################################################
+
 # Versão em Português:
 # Análise Exploratória Inicial - Dados de Usuários Waze
 
